@@ -62,6 +62,17 @@ Or simply as:
 
 ```pyinstaller --onefile --noconsole --icon=icon.ico z-orbit.py```
 
+
+
+<br>
+
+### NOTE: This is just a passion project intended for testing or just for fun. Expect bugs or issues, which can be reported here. 
+### This project may not be maintained.
+
+</br>
+
+
+
 ## Info
 
 Code is provided as-is. You can modify it and redistribute.
