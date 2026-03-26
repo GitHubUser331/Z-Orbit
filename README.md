@@ -77,7 +77,13 @@ Or simply as:
 
 Code is provided as-is. You can modify it and redistribute.
 
-Made to test html rendering and browser-based capabilities in Python. It
+Made to test HTML rendering and browser-based capabilities in Python. It
 is NOT super lightweight, just gets the job done.
 
 Any contributions are welcome.
+
+## Credits
+
+This project is a part of the **Z-Axis Suite.** 
+
+#### © 2026 ZenAxis LLP. All rights reserved.
