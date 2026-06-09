@@ -86,4 +86,4 @@ Any contributions are welcome.
 
 This project is a part of the **Z-Axis Suite.** 
 
-#### © 2026 ZenAxis LLP. All rights reserved.
+#### © 2026 ZenAxis. All rights reserved.
